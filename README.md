@@ -18,6 +18,7 @@
 - 🎓 B.Tech graduate in Artificial Intelligence & Machine Learning.
 - 🌱 Currently learning Python Full Stack Development.
 - 💻 Interested in Python, Django, React and Web Development.
+- 🚀 All of my projects are available at [My Portfolio](https://poojitha-4567.github.io/my-portfolio/)
 - 🤖 Exploring Generative AI, LLMs, LangChain and RAG.
 - 🚀 Building practical projects to improve my development skills.
 - 🎯 Looking for opportunities as a Software Developer.
